@@ -1,10 +1,10 @@
 [
-    {"id":1 ,"idCategoria":4,"modelo":"ECONOMICO", "nombre":"TRAJE", "stock":2, "precio":11000,"img":"traje.png"},
-    {"id":2 ,"idCategoria":2,"modelo":"INVICTUS", "nombre":" BOTAS", "stock":20, "precio":16000,"img":"botas.png"},
-    {"id":3 ,"idCategoria":3,"modelo":"SPARRING" ,"nombre":"CABEZAL", "stock":23, "precio":14000,"img":"cabezal.png"},
-    {"id":4 ,"idCategoria":1,"modelo":"INVICTUS", "nombre":"GUANTES", "stock":12, "precio":16000,"img":"guantes.png"},
-    {"id":5 ,"idCategoria":1,"modelo":"SPARRING", "nombre":"GUANTES", "stock":23, "precio":11000,"img":"guantesparring.png"},
-    {"id":6 ,"idCategoria":3,"modelo":"INVICTUS","nombre":"CABEZAL", "stock":12, "precio":16000,"img":"cabezalinvictus.png"},
-    {"id":7 ,"idCategoria":4,"modelo":"INVICTUS" ,"nombre":"TRAJE", "stock":12, "precio":9000,"img":"traje.png"},
-    {"id":8 ,"idCategoria":4,"modelo":"CANADIENSE","nombre":"TRAJE", "stock":15, "precio":18000,"img":"traje.png"}
+    {"id":1 ,"idCategoria":4,"modelo":"ECONOMICO", "nombre":"TRAJE", "stock":2, "precio":11000,"img":"https://firebasestorage.googleapis.com/v0/b/ecommercetkd.appspot.com/o/traje.png?alt=media&token=a24e87ed-1c95-456f-99ef-f9dafbd87015"},
+    {"id":2 ,"idCategoria":2,"modelo":"INVICTUS", "nombre":" BOTAS", "stock":20, "precio":16000,"img":"https://firebasestorage.googleapis.com/v0/b/ecommercetkd.appspot.com/o/botas.png?alt=media&token=f7a91c40-a65c-4058-ad09-e72c0e73abc0"},
+    {"id":3 ,"idCategoria":3,"modelo":"SPARRING" ,"nombre":"CABEZAL", "stock":23, "precio":14000,"img":"https://firebasestorage.googleapis.com/v0/b/ecommercetkd.appspot.com/o/cabezal.png?alt=media&token=525e7a70-4bbc-450c-bfb0-82ede07aa9f1"},
+    {"id":4 ,"idCategoria":1,"modelo":"INVICTUS", "nombre":"GUANTES", "stock":12, "precio":16000,"img":"https://firebasestorage.googleapis.com/v0/b/ecommercetkd.appspot.com/o/guantes.png?alt=media&token=1e08b716-0e65-4e6b-aef6-57648e8eae9b"},
+    {"id":5 ,"idCategoria":1,"modelo":"SPARRING", "nombre":"GUANTES", "stock":23, "precio":11000,"img":"https://firebasestorage.googleapis.com/v0/b/ecommercetkd.appspot.com/o/guantesparring.png?alt=media&token=281cec28-2271-4f14-8c79-e092f3baafe2"},
+    {"id":6 ,"idCategoria":3,"modelo":"INVICTUS","nombre":"CABEZAL", "stock":12, "precio":16000,"img":"https://firebasestorage.googleapis.com/v0/b/ecommercetkd.appspot.com/o/cabezalinvictus.png?alt=media&token=9c5bc904-8441-46c4-a18d-d99e430601f8"},
+    {"id":7 ,"idCategoria":4,"modelo":"INVICTUS" ,"nombre":"TRAJE", "stock":12, "precio":9000,"img":"https://firebasestorage.googleapis.com/v0/b/ecommercetkd.appspot.com/o/traje.png?alt=media&token=a24e87ed-1c95-456f-99ef-f9dafbd87015"},
+    {"id":8 ,"idCategoria":4,"modelo":"CANADIENSE","nombre":"TRAJE", "stock":15, "precio":18000,"img":"https://firebasestorage.googleapis.com/v0/b/ecommercetkd.appspot.com/o/traje.png?alt=media&token=a24e87ed-1c95-456f-99ef-f9dafbd87015"}
 ]

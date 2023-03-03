@@ -39,7 +39,7 @@ const Navbar = () => {
               Search
             </button>
           </form>
-          <CartWidget  cant= {15}/>
+          <CartWidget   cant= {20}/>
         </div>
         
       </div>
