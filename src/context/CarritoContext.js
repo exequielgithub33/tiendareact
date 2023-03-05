@@ -59,7 +59,6 @@ const getItemQuantity = () => {
     }
 
 
-console.log(carrito)
 return (
   <CarritoContext.Provider value= {{carrito, getItemQuantity,addItem,emptyCart,removeItem,totalPrice}}>
         {props.children}

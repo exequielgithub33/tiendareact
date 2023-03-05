@@ -4,7 +4,7 @@ import { useCarritoContext } from '../../context/CarritoContext';
 
 const CartWidget = () => {
     const {getItemQuantity} = useCarritoContext()
-    console.log(getItemQuantity())
+  
     return (
         <>
              

@@ -14,7 +14,7 @@ export const ItemListContainer = () => {
         .then(items => {
           const products = items.filter(prod => prod.stock > 0).filter(prod => prod.idCategoria === nombre) 
           const productsList = <ItemList products ={products} plantilla ={'item'}/>
-          console.log(productsList)
+       
           setProductos(productsList)
          })
 
@@ -24,7 +24,7 @@ export const ItemListContainer = () => {
         .then(items => {
           const products = items.filter(prod => prod.stock > 0)
           const productsList = <ItemList products ={products} plantilla = {'item'}/>
-          console.log(productsList)
+        
           setProductos(productsList)
          })
 

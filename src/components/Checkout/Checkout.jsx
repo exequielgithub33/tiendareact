@@ -17,7 +17,6 @@ export const Checkout = () => {
     e.preventDefault()
     const datForm = new FormData(datosFormulario.current)
     const cliente = Object.fromEntries(datForm)
-    console.log(cliente.nombre) 
     
     if (cliente.email === cliente.repetiremail)
        {
