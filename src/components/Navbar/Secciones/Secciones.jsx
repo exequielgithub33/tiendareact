@@ -17,11 +17,7 @@ const Secciones = React.memo(() => {
           </Link>
         </li>
 
-        <li className="nav-item">
-          <Link className="nav-link" to={"/oferta"}>
-          Oferta
-          </Link>
-        </li>
+  
       </>
     );
 })

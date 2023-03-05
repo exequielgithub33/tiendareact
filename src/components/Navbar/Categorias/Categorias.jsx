@@ -16,26 +16,26 @@ const Categorias = React.memo(() => {
           </a>
           <ul className="dropdown-menu">
             <li>
-              <Link className="dropdown-item" to="/categoria/1">
-                Guantes
+              <Link className="dropdown-item" to="/categoria/guante">
+                Guante
               </Link>
             </li>
             <li>
-              <Link className="dropdown-item" to="/categoria/2">
-                Zapatos
+              <Link className="dropdown-item" to="/categoria/zapato">
+                Zapato
               </Link>
             </li>
             <li>
-              <Link className="dropdown-item" to="/categoria/3">
-                Cabezales
+              <Link className="dropdown-item" to="/categoria/cabezal">
+                Cabezal
               </Link>
             </li>
             <li>
               <hr className="dropdown-divider"/>
             </li>
             <li>
-              <Link className="dropdown-item" to="/categoria/4">
-                Trajes
+              <Link className="dropdown-item" to="/categoria/traje">
+                Traje
               </Link>
             </li>
            
